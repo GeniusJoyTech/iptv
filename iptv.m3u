@@ -11,7 +11,7 @@ http://
 
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/oNeF6KJCsSY/hqdefault.jpg",Teaser Card Qual Sua Tribo ?
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ABVQXgr2LW4
+https://api.m3use.projectmoose.xyz/m3u/Aquastub/NTVPlay%20-%20Live%20TV%20section.m3u?uid=yopmailcom&pkey=nnhgFMxZ
 
 #EXTINF:-1,GLOBO SP
 http://95.141.35.86:8081/look/sptvl/playlist.m3u8
