@@ -25,7 +25,7 @@ http://evp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 http://video01.viaflux.com:1935/live/mp4:tvsudoeste_source/playlist.m3u8?PEDROJUNIORTUTORIAIS
  
 #EXTINF:-1,SBT
-http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/chunklist.m3u8
+https://www.youtube.com/watch?v=ABVQXgr2LW4
 
 #EXTINF:-1,SBT SP 
 http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/playlist.m3u8
